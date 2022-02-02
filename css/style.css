@@ -1,0 +1,25 @@
+body{
+    background-color: #F5F5DC;
+    max-width: 1000px;
+     font-weight: 300;
+     box-sizing: border-box;
+     max-width: 1000px;
+     margin: 0 auto;
+     font-family: 'Bebas Neue', cursive;
+    }
+
+    .logo{
+        max-width: 50px;
+
+    }
+.img-1{
+    display: block;
+    margin: auto;
+    max-width: 500px;
+}
+
+.featured{
+    
+
+
+}
